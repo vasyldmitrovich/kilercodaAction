@@ -1,4 +1,4 @@
-Common labels: {"filename":"/var/log/app.log","job":"varlogs"}
+Common labels: {"filename":"/var/log/app.log","job":"varlogs"}1
 Line limit: "1000 (2 returned)"
 Total bytes processed: "32.1  kB"
 

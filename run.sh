@@ -1,0 +1,1 @@
+diff Explore-logs.txt result.txt

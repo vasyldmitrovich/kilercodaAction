@@ -34,3 +34,5 @@ jobs:
         run: |
           chmod +x run.sh
           bash run.sh
+          chmod +x run2.sh
+          bash run2.sh

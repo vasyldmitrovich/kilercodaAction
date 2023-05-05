@@ -21,10 +21,12 @@ Change configuration in grafana config file `/etc/grafana/grafana.ini`.
 <details>
 <summary>Solution</summary>
 
-Save file from grafana
+Save file from grafana 
+
 <img src="./images/txt_file.png" style="width: 500px">
 
-Save file from the environment.
+Save file from the environment. 
+
 <img src="./images/save_file.png" style="width: 500px">
 
 </details>

@@ -1,10 +1,12 @@
-##Task1
+##Task1 
+
 In grafana:
 1) Select all log lines starting from 2022-10-01 to 2022-12-31 in the `/var/log/app.log` file where an error of type `ERROR` was thrown.
 2) Save the result in `txt` format on your PC and rename file to `result.txt`.
    <br>
 
-##Task2
+##Task2 
+
 Change configuration in grafana config file `/etc/grafana/grafana.ini`.
 1) Change default UI theme from `dark` to `light`.
 2) Add header 'myHeader' that the server adds to each HTTP(S) responses,

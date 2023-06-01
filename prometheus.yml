@@ -20,11 +20,11 @@ rule_files:
 # Here it's Prometheus itself.
 scrape_configs:
   # The job name is added as a label `job=<job_name>` to any timeseries scraped from this config.
-  - job_name: 'My app'
-    metrics_path: '/actuator/prometheus'
+  - job_name: "My app"
+    metrics_path: "/actuator/prometheus"
     scrape_interval: 7s
     static_configs:
       - targets: ['localhost:8080']
     basic_auth:
-      username: 'bob@gmail.com'
-      password: 'passBob'
+      username: "bob@gmail.com"
+      password: "passBob"

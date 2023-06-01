@@ -25,7 +25,7 @@ then
     
     if [ $answer != 6 ];
         then
-        echo "You have $answer correct answer."
+        echo "You have $answer correct answer. Should be 6 passed tests"
         exit 1
     fi
 else
